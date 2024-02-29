@@ -15,4 +15,5 @@ Lambda Function (Start & Stop Functions)
           V
 EC2 Instances (Mumbai Region)
 
-!()unlimit-task/image/aws-unlimit.png
+
+<img width="449" alt="aws-unlimit" src="https://github.com/Sumit-95/unlimit-task/assets/59448923/04f15573-f7bc-4a13-a41f-16c422a12a0e">
